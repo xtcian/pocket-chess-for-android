@@ -82,6 +82,8 @@ public class MainActivity extends Activity {
         // sets textView
         txtStatus = (TextView)this.findViewById(R.id.txtStatus);
         
+        
+        
         // sets view   
         final BoardView boardView = (BoardView)findViewById(R.id.BoardView);
         boardView.setFocusableInTouchMode(true);

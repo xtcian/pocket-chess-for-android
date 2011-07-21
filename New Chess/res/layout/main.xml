@@ -10,13 +10,13 @@
     android:layout_height="wrap_content" 
     android:text="@string/activity_yourMove"
     />
-<kobi.chess.BannerView
+<!--kobi.chess.BannerView
 	android:id="@+id/BannerView"
 	android:layout_width="fill_parent"
 	android:layout_height="wrap_content"
 	android:layout_alignParentTop="true"
 	
-/>
+/-->
 <kobi.chess.BoardView
 	android:id="@+id/BoardView"
 	android:layout_width="fill_parent"

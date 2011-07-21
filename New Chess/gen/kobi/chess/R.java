@@ -32,18 +32,18 @@ public final class R {
         public static final int square_cursor=0x7f02000f;
     }
     public static final class id {
-        public static final int BannerView=0x7f080007;
         public static final int BoardView=0x7f080008;
         public static final int Button_gpl_screen=0x7f080002;
-        public static final int Button_return_to_screen_2 =0x7f080005;
+        public static final int Button_return_to_screen_2 =0x7f080006;
         public static final int Button_return_to_screen_3 =0x7f080003;
-        public static final int Button_return_to_screen_5=0x7f080004;
+        public static final int Button_return_to_screen_5=0x7f080005;
         public static final int Copyright=0x7f080010;
         public static final int ScrollView01=0x7f080000;
         public static final int about=0x7f080012;
         public static final int about_view=0x7f080001;
         public static final int cencel=0x7f08000e;
         public static final int exit=0x7f080013;
+        public static final int gnu_view=0x7f080004;
         public static final int help=0x7f080011;
         public static final int ok=0x7f08000d;
         public static final int radio_black=0x7f08000c;
@@ -51,7 +51,7 @@ public final class R {
         public static final int radio_white=0x7f08000b;
         public static final int spinner=0x7f080009;
         public static final int startGame=0x7f08000f;
-        public static final int txtStatus=0x7f080006;
+        public static final int txtStatus=0x7f080007;
     }
     public static final class layout {
         public static final int copyright2=0x7f030000;
@@ -67,26 +67,27 @@ public final class R {
         public static final int copying=0x7f040000;
     }
     public static final class string {
-        public static final int activity_check=0x7f050028;
-        public static final int activity_copyright=0x7f05002b;
-        public static final int activity_draw=0x7f05002a;
+        public static final int activity_back=0x7f050011;
+        public static final int activity_check=0x7f050029;
+        public static final int activity_copyright=0x7f05002c;
+        public static final int activity_draw=0x7f05002b;
         public static final int activity_gpl=0x7f050010;
         public static final int activity_instructions=0x7f05000e;
-        public static final int activity_mate=0x7f050029;
-        public static final int activity_myMove=0x7f050025;
+        public static final int activity_mate=0x7f05002a;
+        public static final int activity_myMove=0x7f050026;
         public static final int activity_return=0x7f05000f;
-        public static final int activity_thinking=0x7f050027;
-        public static final int activity_yourMove=0x7f050026;
+        public static final int activity_thinking=0x7f050028;
+        public static final int activity_yourMove=0x7f050027;
         public static final int app_name=0x7f050001;
-        public static final int confirmation_open_cancel=0x7f05001f;
-        public static final int confirmation_open_content=0x7f05001d;
-        public static final int confirmation_open_ok=0x7f05001e;
-        public static final int confirmation_open_title=0x7f05001c;
-        public static final int confirmation_save_cancel=0x7f05001a;
-        public static final int confirmation_save_cancel2=0x7f05001b;
-        public static final int confirmation_save_content=0x7f050018;
-        public static final int confirmation_save_ok=0x7f050019;
-        public static final int confirmation_save_title=0x7f050017;
+        public static final int confirmation_open_cancel=0x7f050020;
+        public static final int confirmation_open_content=0x7f05001e;
+        public static final int confirmation_open_ok=0x7f05001f;
+        public static final int confirmation_open_title=0x7f05001d;
+        public static final int confirmation_save_cancel=0x7f05001b;
+        public static final int confirmation_save_cancel2=0x7f05001c;
+        public static final int confirmation_save_content=0x7f050019;
+        public static final int confirmation_save_ok=0x7f05001a;
+        public static final int confirmation_save_title=0x7f050018;
         public static final int dialog_alert=0x7f05000b;
         public static final int dialog_message=0x7f05000c;
         public static final int dialog_ok_button=0x7f05000d;
@@ -98,18 +99,18 @@ public final class R {
         public static final int main_menu_help=0x7f050006;
         public static final int main_menu_options=0x7f050008;
         public static final int main_menu_startGame=0x7f050005;
-        public static final int options_cancel=0x7f050016;
-        public static final int options_color_black=0x7f050014;
-        public static final int options_color_white=0x7f050013;
-        public static final int options_ok=0x7f050015;
-        public static final int options_prompt=0x7f050012;
-        public static final int options_return=0x7f050011;
+        public static final int options_cancel=0x7f050017;
+        public static final int options_color_black=0x7f050015;
+        public static final int options_color_white=0x7f050014;
+        public static final int options_ok=0x7f050016;
+        public static final int options_prompt=0x7f050013;
+        public static final int options_return=0x7f050012;
         public static final int please_choose_black=0x7f050003;
         public static final int please_choose_white=0x7f050002;
-        public static final int showPromotionPieceDialog_bishop=0x7f050023;
-        public static final int showPromotionPieceDialog_knight=0x7f050024;
-        public static final int showPromotionPieceDialog_queen=0x7f050021;
-        public static final int showPromotionPieceDialog_rook=0x7f050022;
-        public static final int showPromotionPieceDialog_title=0x7f050020;
+        public static final int showPromotionPieceDialog_bishop=0x7f050024;
+        public static final int showPromotionPieceDialog_knight=0x7f050025;
+        public static final int showPromotionPieceDialog_queen=0x7f050022;
+        public static final int showPromotionPieceDialog_rook=0x7f050023;
+        public static final int showPromotionPieceDialog_title=0x7f050021;
     }
 }

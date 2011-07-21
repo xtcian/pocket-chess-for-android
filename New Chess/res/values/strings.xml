@@ -17,6 +17,7 @@
     <string name="activity_instructions">Simply drag the white pieces in your turn and play against your android phone</string>
     <string name="activity_return">Return to main screen</string>
     <string name="activity_gpl">full GNU license</string>
+    <string name="activity_back">Go back</string>
     <string name="options_return">Return to main screen</string>
     <string name="options_prompt">Choose Level</string>
     <string-array name="options_level">
@@ -53,5 +54,5 @@
     <string name="activity_check">Check!</string>
     <string name="activity_mate">Mate!!</string>
     <string name="activity_draw">Draw!!</string>
-     <string name="activity_copyright">Pocket Chess Copyright (C) 2011 by Kobi Krasnoff\n\nThis program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions; Click the "Full GNU License" button for more details.\n\nCredits:\nThis program makes use of the "Chess Training Tools": Copyright  2009 by Dietrich Kappe.\nThis program makes use of the Chesspresso™ library: Copyright  2009 by Bernhard Seybold.\n\nMy email is: krasnoff.kobi@gmail.com</string>
+     <string name="activity_copyright">Pocket Chess Copyright (C) 2011 by Kobi Krasnoff\n\nThis program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions; Click the "Full GNU License" button for more details.\n\nCredits:\nThis program makes use of the "Chess Training Tools": Copyright  2009 by Dietrich Kappe.\nThis program makes use of the Chesspresso™ library: Copyright  2009 by Bernhard Seybold.\n\nMy email is: krasnoff.kobi@gmail.com\nProject site: http://code.google.com/p/pocket-chess-for-android/</string>
 </resources>
