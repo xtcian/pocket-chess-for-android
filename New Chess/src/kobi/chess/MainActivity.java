@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
 	
 	private ChessEngine engine;
 	private int ply = 0;
-	private boolean moveEnabled = false;
+	private boolean moveEnabled = false;   
 	
 	
 	private MyHandler mMyHandler = new MyHandler();
