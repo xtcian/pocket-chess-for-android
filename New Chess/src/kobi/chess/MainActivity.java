@@ -368,6 +368,7 @@ public class MainActivity extends Activity {
 			break;
 		case R.id.exit:
 			Log.e("pointerSquare", "MENU_EXIT");
+			this.finish();
 			break;
 		default:
 			Log.e("pointerSquare", String.valueOf(item.getItemId()));
