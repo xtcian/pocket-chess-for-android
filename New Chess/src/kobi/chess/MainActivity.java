@@ -92,7 +92,6 @@ public class MainActivity extends Activity {
         
         boardView.setOnTouchListener(new OnTouchListener() {
 
-			@Override
 			public boolean onTouch(View v, MotionEvent event) {
 				
 				if (engine.isWhiteTurn())

@@ -917,16 +917,13 @@ public class SimpleEngine implements ChessEngine {
 			he.depth = depth;
 		}
 	}
-	@Override
 	public int[] getBoard(char[][] ply) {
 		int[] res = new int[9];
 		return res;
 	}
-	@Override
 	public boolean isCheck() {
 		return position.isCheck();
 	}
-	@Override
 	/**
 	 * returns all possible moves
 	 * @return

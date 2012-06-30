@@ -308,7 +308,6 @@ public class RandomEngine2 implements ChessEngine {
 	/**
 	 * indicate weather it is check mode.
 	 */
-	@Override
 	public boolean isCheck() {
 		return position.isCheck();
 	}
